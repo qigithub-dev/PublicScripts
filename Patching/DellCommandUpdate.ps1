@@ -80,7 +80,7 @@ Function Remove-DellCommand {
         $param = $uninstaller[1], "/qn", "/norestart"
         
         Write-Output "---Removing Command 3.0 Win 10 config----"
-        Start-Process $uninstaller[0] -argumentList $param
+        Start-Process $uninstaller[0] -argumentList $param -NoNewWindow
         Wait-Process -name msiexec -Timeout 300 -ErrorAction SilentlyContinue
     }
 }
