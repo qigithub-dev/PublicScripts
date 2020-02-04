@@ -91,7 +91,7 @@ function Invoke-DellDriverUpdate {
         Remove-Item -Path $Log
     }
     $Arguments = "/applyUpdates -outputlog=" + [char]34 + $Log + [char]34
-    start-process -FilePath $Executable -ArgumentList $Arguments
+    start-process -FilePath $Executable -ArgumentList $Arguments -NoNewWindow
     start-sleep -Seconds 1
 } 
 
