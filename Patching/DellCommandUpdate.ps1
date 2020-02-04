@@ -91,9 +91,8 @@ function Invoke-DellDriverUpdate {
         Remove-Item -Path $Log
     }
     $Arguments = "/applyUpdates -outputlog=" + [char]34 + $Log + [char]34
-    $Process = (start-process -FilePath $Executable -ArgumentList $Arguments -WindowStyle Hidden -PassThru)
+    start-process -FilePath $Executable -ArgumentList $Arguments
     start-sleep -Seconds 1
-    Update-ProgressBar -Runlog $Log -ProcessID $Process.ID
 } 
 
 if ((get-wmiobject win32_computersystem).Manufacturer -match 'Dell') {
