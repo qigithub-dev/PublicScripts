@@ -90,8 +90,11 @@ function Invoke-DellDriverUpdate {
     if (Test-Path -path $Log) {
         Remove-Item -Path $Log
     }
-    $Arguments = "$Executable /applyUpdates -outputlog=" + [char]34 + $Log + [char]34
-    start-process -FilePath 'powershell' -ArgumentList $Arguments -NoNewWindow
+    $Arguments = "$Executable /applyUpdates"
+
+    start-process powershell -ArgumentList "-executionpolicy bypass -command $Arguments" -NoNewWindow;
+
+    #start-process -FilePath 'powershell' -ArgumentList $Arguments -NoNewWindow
     start-sleep -Seconds 1
 } 
 
