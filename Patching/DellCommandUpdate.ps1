@@ -85,34 +85,16 @@ Function Remove-DellCommand {
     }
 }
 
-function Invoke-DellDriverUpdate {
-    $Log = "$ScriptPath\logs\DellCommandUpdate.log"
-    if (Test-Path -path $Log) {
-        Remove-Item -Path $Log
-    }
-    #$Arguments = "start-process -FilePath ""$Executable"" -ArgumentList ""/applyUpdates"""
 
-    #start-process -FilePath powershell.exe -ArgumentList "-executionpolicy bypass -command $Arguments" -NoNewWindow;
-
-    start-process $Executable -ArgumentList "/applyUpdates" -NoNewWindow
-    start-sleep -Seconds 1
-} 
-
-if ((get-wmiobject win32_computersystem).Manufacturer -match 'Dell') {
-    #$RunLog = "$ScriptPath\logs\DellCommand\ActivityLog.xml"
-    Set-DellCommandexe
-    if ($Executable.length -le 0) {
-        Install-DellCommand
-        Invoke-DellDriverUpdate
-    }
-    else {
-        ((Get-ItemProperty $Executable).VersionInfo.productVersion) -match '(3\.1)\.'
-        if ($matches[1] -lt 3.1) {
-            Install-DellCommand
-        }
-        Invoke-DellDriverUpdate
-    }
+Set-DellCommandexe
+if ($Executable.length -le 0) {
+    Install-DellCommand
+    Start-Process $Executable -ArgumentList "/applyUpdates" -NoNewWindow
 }
 else {
-    Update-LogBox "Dell Hardware Not Detected"
+    ((Get-ItemProperty $Executable).VersionInfo.productVersion) -match '(3\.1)\.' | Out-Null
+    if ($matches[1] -lt 3.1) {
+        Install-DellCommand
+    }
+    Start-Process $Executable -ArgumentList "/applyUpdates" -NoNewWindow
 }
