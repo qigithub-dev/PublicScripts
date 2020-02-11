@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<sharpUpdate>
+    <update appID="Qi-Installer">
+        <version>2.0.0.0</version>
+        <url>https://qibit-ly.co/QiInstaller</url>
+        <filename>Qi-Installer.exe</filename>
+        <md5>C:\Users\dklatka\source\repos\Qi-Installer-V2\Qi-Installer-V2\bin\Release</md5>
+        <description>Initial Update</description>
+        <launchArgs></launchArgs>
+    </update>
+</sharpUpdate>
