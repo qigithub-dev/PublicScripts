@@ -3,7 +3,7 @@
     <update appId="Qi-Installer">
         <version>2.0.0.0</version>
         <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Installer2.exe</url>
-        <filename>Qi-Installer.exe</filename>
+        <fileName>Qi-Installer.exe</fileName>
         <md5>e2623e6d5c793298c0211c5b1b5c7101</md5>
         <description>Initial Update</description>
         <launchArgs></launchArgs>
