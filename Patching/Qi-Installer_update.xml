@@ -4,7 +4,7 @@
         <version>2.0.0.0</version>
         <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Installer2.exe</url>
         <fileName>Qi-Installer.exe</fileName>
-        <md5>e2623e6d5c793298c0211c5b1b5c7101</md5>
+        <md5>2f10d4ca1fe10ef82a462b796599b0bc</md5>
         <description>Initial Update</description>
         <launchArgs></launchArgs>
     </update>
