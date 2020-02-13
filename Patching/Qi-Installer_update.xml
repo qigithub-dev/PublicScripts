@@ -2,9 +2,9 @@
 <sharpUpdate>
     <update appId="Qi-Installer">
         <version>2.0.0.0</version>
-        <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Installer2.exe</url>
+        <url>https://qibit-ly.co/QiInstaller</url>
         <fileName>Qi-Installer.exe</fileName>
-        <md5>2f10d4ca1fe10ef82a462b796599b0bc</md5>
+        <md5>C:\Users\dklatka\source\repos\Public\Patching</md5>
         <description>Initial Update</description>
         <launchArgs></launchArgs>
     </update>
