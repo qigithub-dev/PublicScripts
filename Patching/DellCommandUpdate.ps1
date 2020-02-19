@@ -89,12 +89,12 @@ Function Remove-DellCommand {
 Set-DellCommandexe
 if ($Executable.length -le 0) {
     Install-DellCommand
-    Start-Process $Executable -ArgumentList "/applyUpdates -outputLog=C:\temp\dellcommandupdate.log" -NoNewWindow
+    Start-Process $Executable -ArgumentList "/applyUpdates" -NoNewWindow
 }
 else {
     ((Get-ItemProperty $Executable).VersionInfo.productVersion) -match '(3\.1)\.' | Out-Null
     if ($matches[1] -lt 3.1) {
         Install-DellCommand
     }
-    Start-Process $Executable -ArgumentList "/applyUpdates -outputLog=C:\temp\dellcommandupdate.log" -NoNewWindow
+    Start-Process $Executable -ArgumentList "/applyUpdates" -NoNewWindow
 }
