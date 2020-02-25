@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
     <update appId="Qi-Installer">
-        <version>2.0.0.0</version>
+        <version>2.0.0.3</version>
         <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Installer.exe</url>
         <fileName>Qi-Installer.exe</fileName>
-        <md5>e1fe1bd7b463946fd492fc199a927c8c</md5>
+        <md5>4b1926093e180e3556fd781d22f50bff</md5>
         <description>Initial Update</description>
         <launchArgs></launchArgs>
     </update>
