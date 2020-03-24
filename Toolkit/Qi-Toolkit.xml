@@ -8,4 +8,12 @@
         <description>Initial Update</description>
         <launchArgs></launchArgs>
     </update>
+    <auth userName="nadkins">
+        <locationID>458</locationID>
+        <text>Qi Toolkit (Adkins, Nick)</text>
+    </auth>
+    <auth userName="dklatka">
+        <locationID>444</locationID>
+        <text>Qi Toolkit (Klatka, Dave)</text>
+    </auth>
 </sharpXML>
