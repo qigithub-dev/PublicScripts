@@ -3,7 +3,7 @@
     <update appId="Qi-Installer">
         <version>2.0.0.4</version>
         <url>https://qibit-ly.co/Toolkit</url>
-        <fileName>Qi-Installer.exe</fileName>
+        <fileName>Qi-Toolkit.exe</fileName>
         <md5>42623ea5ff381fafdd642162871fd200</md5>
         <description>Update to toolkit</description>
         <launchArgs></launchArgs>
