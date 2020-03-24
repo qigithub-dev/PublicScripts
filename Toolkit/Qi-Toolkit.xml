@@ -4,15 +4,7 @@
         <version>2.0.0.4</version>
         <url>https://github.com/qigithub-dev/PublicScripts/raw/master/Toolkit/Qi-Toolkit.exe</url>
         <fileName>Qi-Toolkit.exe</fileName>
-        <md5>42623ea5ff381fafdd642162871fd200</md5>
-        <description>Update to toolkit</description>
-        <launchArgs></launchArgs>
-    </update>
-    <update appId="Qi-Installer">
-        <version>2.0.0.4</version>
-        <url>https://github.com/qigithub-dev/PublicScripts/raw/master/Toolkit/Qi-Toolkit.exe</url>
-        <fileName>Qi-Toolkit.exe</fileName>
-        <md5>42623ea5ff381fafdd642162871fd200</md5>
+        <md5>b184fc050738cbd39c28000ddf664324</md5>
         <description>Update to toolkit</description>
         <launchArgs></launchArgs>
     </update>
