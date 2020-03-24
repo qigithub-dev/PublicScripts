@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <sharpXML>
-    <update appId="Qi-Installer">
+    <update appId="Qi-Toolkit">
         <version>2.0.0.3</version>
         <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Installer.exe</url>
-        <fileName>Qi-Installer.exe</fileName>
+        <fileName>Qi-Toolkit.exe</fileName>
         <md5>4b1926093e180e3556fd781d22f50bff</md5>
         <description>Initial Update</description>
         <launchArgs></launchArgs>
