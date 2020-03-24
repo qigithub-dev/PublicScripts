@@ -1,19 +1,183 @@
 <?xml version="1.0"?>
 <sharpXML>
     <update appId="Qi-Toolkit">
-        <version>2.0.0.3</version>
-        <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Installer.exe</url>
+        <version>2.0.0.4</version>
+        <url>https://qibit-ly.co/Toolkit</url>
         <fileName>Qi-Toolkit.exe</fileName>
-        <md5>4b1926093e180e3556fd781d22f50bff</md5>
-        <description>Initial Update</description>
+        <md5>42623ea5ff381fafdd642162871fd200</md5>
+        <description>Update to toolkit</description>
+        <launchArgs></launchArgs>
+    </update>
+    <update appId="Qi-Installer">
+        <version>2.0.0.4</version>
+        <url>https://qibit-ly.co/Toolkit</url>
+        <fileName>Qi-Installer.exe</fileName>
+        <md5>42623ea5ff381fafdd642162871fd200</md5>
+        <description>Update to toolkit</description>
         <launchArgs></launchArgs>
     </update>
     <auth userName="nadkins">
         <locationID>458</locationID>
         <text>Qi Toolkit (Adkins, Nick)</text>
     </auth>
+    <auth userName="mauthenreith">
+        <locationID>638</locationID>
+        <text>Qi Toolkit (Authenreith, Marshal)</text>
+    </auth>
+    <auth userName="mbaker">
+        <locationID>624</locationID>
+        <text>Qi Toolkit (Baker, Mike)</text>
+    </auth>
+    <auth userName="JBender">
+        <locationID>448</locationID>
+        <text>Qi Toolkit (Bender, Jonathan)</text>
+    </auth>
+    <auth userName="jcanzurlo">
+        <locationID>617</locationID>
+        <text>Qi Toolkit (Canzurlo, Jesse)</text>
+    </auth>
+    <auth userName="ncecil">
+        <locationID>459</locationID>
+        <text>Qi Toolkit (Cecil, Nick)</text>
+    </auth>
+    <auth userName="sconti">
+        <locationID>464</locationID>
+        <text>Qi Toolkit (Conti, Scott)</text>
+    </auth>
+    <auth userName="jdarby">
+        <locationID>449</locationID>
+        <text>Qi Toolkit (Darby, Jeffrey)</text>
+    </auth>
+    <auth userName="kdillon">
+        <locationID>452</locationID>
+        <text>Qi Toolkit (Dillon, Ken)</text>
+    </auth>
+    <auth userName="bdixon">
+        <locationID>595</locationID>
+        <text>Qi Toolkit (Dixon, Bryan)</text>
+    </auth>
+    <auth userName="sengland">
+        <locationID>465</locationID>
+        <text>Qi Toolkit (England, Shane)</text>
+    </auth>
+    <auth userName="kylef">
+        <locationID>456</locationID>
+        <text>Qi Toolkit (Fabricius, Kyle)</text>
+    </auth>
+    <auth userName="kfranklin">
+        <locationID>633</locationID>
+        <text>Qi Toolkit (Franklin, Karis)</text>
+    </auth>
+    <auth userName="bgardner">
+        <locationID>507</locationID>
+        <text>Qi Toolkit (Gardner, Ben)</text>
+    </auth>
+    <auth userName="ggirton">
+        <locationID>447</locationID>
+        <text>Qi Toolkit (Girton, Greg)</text>
+    </auth>
+    <auth userName="egreen">
+        <locationID>446</locationID>
+        <text>Qi Toolkit (Green, Ethan)</text>
+    </auth>
+    <auth userName="dheiss">
+        <locationID>443</locationID>
+        <text>Qi Toolkit (Heiss, David)</text>
+    </auth>
+    <auth userName="ahuffman">
+        <locationID>437</locationID>
+        <text>Qi Toolkit (Huffman, Ashley)</text>
+    </auth>
+    <auth userName="njones">
+        <locationID>625</locationID>
+        <text>Qi Toolkit (Jones, Nate)</text>
+    </auth>
+    <auth userName="kking">
+        <locationID>453</locationID>
+        <text>Qi Toolkit (King, Kyle)</text>
+    </auth>
     <auth userName="dklatka">
         <locationID>444</locationID>
         <text>Qi Toolkit (Klatka, Dave)</text>
+    </auth>
+    <auth userName="dylan">
+        <locationID>545</locationID>
+        <text>Qi Toolkit (Markham, Dylan)</text>
+    </auth>
+    <auth userName="kmazanek">
+        <locationID>454</locationID>
+        <text>Qi Toolkit (Mazanek, Katie)</text>
+    </auth>
+    <auth userName="mmccoy">
+        <locationID>482</locationID>
+        <text>Qi Toolkit (McCoy, Mathew)</text>
+    </auth>
+    <auth userName="cmehl">
+        <locationID>440</locationID>
+        <text>Qi Toolkit (Mehlmann, Christian)</text>
+    </auth>
+    <auth userName="cminnick">
+        <locationID>632</locationID>
+        <text>Qi Toolkit (Minnick, Cody)</text>
+    </auth>
+    <auth userName="wesp">
+        <locationID>469</locationID>
+        <text>Qi Toolkit (Powell, Wes)</text>
+    </auth>
+    <auth userName="troyp">
+        <locationID>468</locationID>
+        <text>Qi Toolkit (Prough, Troy)</text>
+    </auth>
+    <auth userName="broth">
+        <locationID>524</locationID>
+        <text>Qi Toolkit (Roth, Brandon)</text>
+    </auth>
+    <auth userName="csabolek">
+        <locationID>622</locationID>
+        <text>Qi Toolkit (Sabolek, Charlie)</text>
+    </auth>
+    <auth userName="steves">
+        <locationID>467</locationID>
+        <text>Qi Toolkit (Schlosnagle, Steve)</text>
+    </auth>
+    <auth userName="aselzer">
+        <locationID>631</locationID>
+        <text>Qi Toolkit (Selzer, Andrew)</text>
+    </auth>
+    <auth userName="csingh">
+        <locationID>599</locationID>
+        <text>Qi Toolkit (Singh, Chris)</text>
+    </auth>
+    <auth userName="pskilton">
+        <locationID>460</locationID>
+        <text>Qi Toolkit (Skilton, Patrick)</text>
+    </auth>
+    <auth userName="asmith">
+        <locationID>626</locationID>
+        <text>Qi Toolkit (Smith, Angela)</text>
+    </auth>
+    <auth userName="csoska">
+        <locationID>442</locationID>
+        <text>Qi Toolkit (Soska, Chris)</text>
+    </auth>
+    <auth userName="bstecker">
+        <locationID>634</locationID>
+        <text>Qi Toolkit (Stecker, Butch)</text>
+    </auth>
+    <auth userName="bsullivan">
+        <locationID>514</locationID>
+        <text>Qi Toolkit (Sullivan, Brandon)</text>
+    </auth>
+    <auth userName="bsvoboda">
+        <locationID>588</locationID>
+        <text>Qi Toolkit (Svoboda, Bruce)</text>
+    </auth>
+    <auth userName="mvanriper">
+        <locationID>457</locationID>
+        <text>Qi Toolkit (Van Riper, Mae)</text>
+    </auth>
+    <auth userName="nzwickphillips">
+        <locationID>602</locationID>
+        <text>Qi Toolkit (Zwick-Phillips, Nicole)</text>
     </auth>
 </sharpXML>
