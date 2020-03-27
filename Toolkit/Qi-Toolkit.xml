@@ -8,6 +8,13 @@
         <description>Update to toolkit</description>
         <launchArgs></launchArgs>
     </update>
+    <download appName=Win10_1909_x64>
+        <software>Win10 1909 x64</software>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/1909_Upgrade/Win10_1909_x64.zip</source>
+        <destination>Windows 10 1909\\x64\\Win10 1909 x64.zip</destination>
+        <extract>true</extract>
+        <md5>e92633e51b569fa700f73dfc15a9355a</md5>
+    </download>
     <auth userName="nadkins">
         <locationID>458</locationID>
         <text>Qi Toolkit (Adkins, Nick)</text>
