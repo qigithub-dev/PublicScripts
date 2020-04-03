@@ -12,6 +12,7 @@
         <software>Win10 1909 x64</software>
         <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/1909_Upgrade/Win10_1909_x64.zip</source>
         <destination>Windows 10 1909\x64\Win10 1909 x64.zip</destination>
+        <fileParts>51</fileParts
         <extract>true</extract>
         <md5>e92633e51b569fa700f73dfc15a9355a</md5>
     </download>
@@ -19,6 +20,7 @@
         <software>Win10 1909 x86</software>
         <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/1909_Upgrade/Win10_1909_x86.zip</source>
         <destination>Windows 10 1909\x86\Win10 1909 x86.zip</destination>
+        <fileParts>35</fileParts>
         <extract>true</extract>
         <md5>d9a24139d38b7abf3d99046875c2f210</md5>
     </download>
