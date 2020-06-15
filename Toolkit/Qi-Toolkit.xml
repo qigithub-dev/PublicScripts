@@ -2,7 +2,7 @@
 <sharpXML>
     <update appId="Qi-Toolkit">
         <version>2.0.1.1</version>
-        <url>https://github.com/qigithub-dev/PublicScripts/raw/master/Toolkit/Qi-Toolkit.exe</url>
+        <url>https://qi-host.nyc3.digitaloceanspaces.com/Standalone_Installer/Tech_Installer/Qi-Toolkit.exe</url>
         <fileName>Qi-Toolkit.exe</fileName>
         <md5>80FC02B04728E76250BF5C432191DEB7</md5>
         <description>Added fix for Automate install</description>
