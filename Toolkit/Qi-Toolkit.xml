@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <sharpXML>
     <update appId="Qi-Toolkit">
-        <version>2.0.0.4</version>
+        <version>2.0.1.0</version>
         <url>https://github.com/qigithub-dev/PublicScripts/raw/master/Toolkit/Qi-Toolkit.exe</url>
         <fileName>Qi-Toolkit.exe</fileName>
-        <md5>c773ed9e72b0c21b9f459fa43d10dc6f</md5>
-        <description>Update to toolkit</description>
+        <md5>7B8F2E69D32BC72F1982FAC68431B2CC</md5>
+        <description>Added fix for Automate install</description>
         <launchArgs></launchArgs>
     </update>
-    <download appName="Win10_1909_x64">
-        <software>Win10 1909 x64</software>
-        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/1909_Upgrade/Win10_1909_x64.zip</source>
-        <destination>Windows 10 1909\x64\Win10 1909 x64.zip</destination>
-        <fileParts>51</fileParts>
+    <download appName="Win10_2004_x64">
+        <software>Win10 2004 x64</software>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/2004_Upgrade/Win10_2004_x64.zip</source>
+        <destination>Windows 10 2004\x64\Win10 2004 x64.zip</destination>
+        <fileParts>39</fileParts>
         <extract>true</extract>
         <md5>e92633e51b569fa700f73dfc15a9355a</md5>
     </download>
-    <download appName="Win10_1909_x86">
-        <software>Win10 1909 x86</software>
-        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/1909_Upgrade/Win10_1909_x86.zip</source>
-        <destination>Windows 10 1909\x86\Win10 1909 x86.zip</destination>
-        <fileParts>35</fileParts>
+    <download appName="Win10_2004_x86">
+        <software>Win10 2004 x86</software>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/2004_Upgrade/Win10_2004_x86.zip</source>
+        <destination>Windows 10 2004\x86\Win10 2004 x86.zip</destination>
+        <fileParts>28</fileParts>
         <extract>true</extract>
         <md5>d9a24139d38b7abf3d99046875c2f210</md5>
     </download>
