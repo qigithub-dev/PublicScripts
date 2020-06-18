@@ -72,6 +72,10 @@
         <locationID>456</locationID>
         <text>Qi Toolkit (Fabricius, Kyle)</text>
     </auth>
+    <auth userName="sfarr">
+        <locationID>671</locationID>
+        <text>Qi Toolkit (Farr, Steven)</text>
+    </auth>
     <auth userName="kfranklin">
         <locationID>633</locationID>
         <text>Qi Toolkit (Franklin, Karis)</text>
