@@ -4,7 +4,7 @@
         <version>2.0.1.1</version>
         <url>https://github.com/qigithub-dev/PublicScripts/raw/master/Toolkit/Qi-Toolkit.exe</url>
         <fileName>Qi-Toolkit.exe</fileName>
-        <md5>80FC02B04728E76250BF5C432191DEB7</md5>
+        <md5>F5668561B053BEB2A4D445C060362EC2</md5>
         <description>Added fix for Automate install</description>
         <launchArgs></launchArgs>
     </update>
