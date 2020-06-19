@@ -56,6 +56,10 @@
         <locationID>449</locationID>
         <text>Qi Toolkit (Darby, Jeffrey)</text>
     </auth>
+    <auth userName="mdelaquila">
+        <locationID>672</locationID>
+        <text>Qi Toolkit (Delaquila, Mike)</text>
+    </auth>
     <auth userName="kdillon">
         <locationID>452</locationID>
         <text>Qi Toolkit (Dillon, Ken)</text>
