@@ -24,6 +24,13 @@
         <extract>true</extract>
         <md5>d9a24139d38b7abf3d99046875c2f210</md5>
     </download>
+    <download appName="Office_365_ProPlus_x64">
+        <software>Office 365 ProPlus x64</software>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Office/365_ProPlus_x64/Office_365_ProPlus_x64.zip</source>
+        <destination>Office 365\ProPlus\x86\Office 365 ProPlus x64.zip</destination>
+        <fileParts>23</fileParts>
+        <extract>false</extract>
+    </download>
     <auth userName="nadkins">
         <locationID>458</locationID>
         <text>Qi Toolkit (Adkins, Nick)</text>
