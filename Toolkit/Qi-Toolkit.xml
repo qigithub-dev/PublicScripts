@@ -203,9 +203,9 @@
         <locationID>460</locationID>
         <text>Qi Toolkit (Skilton, Patrick)</text>
     </auth>
-    <auth userName="asmith">
-        <locationID>626</locationID>
-        <text>Qi Toolkit (Smith, Angela)</text>
+    <auth userName="dsmith">
+        <locationID>679</locationID>
+        <text>Qi Toolkit (Smith, Daniel)</text>
     </auth>
     <auth userName="csoska">
         <locationID>442</locationID>
