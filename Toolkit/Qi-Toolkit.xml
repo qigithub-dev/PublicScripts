@@ -61,7 +61,7 @@
     </download>
     <download appName="USMT">
         <software>User State Migration Tool</software>
-        <sourcehttps://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Tools/User_State_Migration_Tool.zip</source>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Tools/User_State_Migration_Tool.zip</source>
         <destination>User_State_Migration_Tool.zip</destination>
         <fileParts>1</fileParts>
         <extract>true</extract>
