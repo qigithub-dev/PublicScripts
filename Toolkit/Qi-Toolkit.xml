@@ -59,6 +59,13 @@
         <fileParts>20</fileParts>
         <extract>false</extract>
     </download>
+    <download appName="USMT">
+        <software>User State Migration Tool</software>
+        <sourcehttps://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Tools/User_State_Migration_Tool.zip</source>
+        <destination>User_State_Migration_Tool.zip</destination>
+        <fileParts>1</fileParts>
+        <extract>true</extract>
+    </download>
     <auth userName="nadkins">
         <locationID>458</locationID>
         <text>Qi Toolkit (Adkins, Nick)</text>
