@@ -39,14 +39,14 @@
         <extract>false</extract>
     </download>
     <download appName="Office_365_Business_x64">
-        <software>Office 365 ProPlus x64</software>
+        <software>Office 365 Business x64</software>
         <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Office/365_Business_x64/Office_365_Business_x64.zip</source>
         <destination>Office 365\Business\x64\Office 365 Business x64.zip</destination>
         <fileParts>24</fileParts>
         <extract>false</extract>
     </download>
     <download appName="Office_365_Business_x86">
-        <software>Office 365 ProPlus x86</software>
+        <software>Office 365 Business x86</software>
         <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Office/365_Business_x86/Office_365_Business_x86.zip</source>
         <destination>Office 365\Business\x86\Office 365 Business x86.zip</destination>
         <fileParts>18</fileParts>
