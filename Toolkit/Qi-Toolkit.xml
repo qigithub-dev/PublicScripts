@@ -24,6 +24,20 @@
         <extract>true</extract>
         <md5>d9a24139d38b7abf3d99046875c2f210</md5>
     </download>
+    <download appName="Win10_2009_x64">
+        <software>Win10 2009 x64</software>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/2009_Upgrade/Win10_2009_x64.zip</source>
+        <destination>Windows 10 2009\x64\Win10 2009 x64.zip</destination>
+        <fileParts>46</fileParts>
+        <extract>true</extract>
+    </download>
+    <download appName="Win10_2009_x86">
+        <software>Win10 2004 x86</software>
+        <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/2009_Upgrade/Win10_2009_x86.zip</source>
+        <destination>Windows 10 2009\x86\Win10 2009 x86.zip</destination>
+        <fileParts>34</fileParts>
+        <extract>true</extract>
+    </download>
     <download appName="Office_365_ProPlus_x64">
         <software>Office 365 ProPlus x64</software>
         <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Office/365_ProPlus_x64/Office_365_ProPlus_x64.zip</source>
