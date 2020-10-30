@@ -32,7 +32,7 @@
         <extract>true</extract>
     </download>
     <download appName="Win10_2009_x86">
-        <software>Win10 2004 x86</software>
+        <software>Win10 2009 x86</software>
         <source>https://qi-host.nyc3.digitaloceanspaces.com/AutoMate/Microsoft/Windows/2009_Upgrade/Win10_2009_x86.zip</source>
         <destination>Windows 10 2009\x86\Win10 2009 x86.zip</destination>
         <fileParts>34</fileParts>
