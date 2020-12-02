@@ -108,10 +108,6 @@
         <locationID>464</locationID>
         <text>Qi Toolkit (Conti, Scott)</text>
     </auth>
-    <auth userName="jdarby">
-        <locationID>449</locationID>
-        <text>Qi Toolkit (Darby, Jeffrey)</text>
-    </auth>
     <auth userName="mdelaquila">
         <locationID>672</locationID>
         <text>Qi Toolkit (Delaquila, Mike)</text>
@@ -247,6 +243,10 @@
     <auth userName="mvanriper">
         <locationID>457</locationID>
         <text>Qi Toolkit (Van Riper, Mae)</text>
+    </auth>
+    <auth userName="nverna">
+        <locationID>707</locationID>
+        <text>Qi Toolkit (Nick, Verna)</text>
     </auth>
     <auth userName="nzwickphillips">
         <locationID>602</locationID>
