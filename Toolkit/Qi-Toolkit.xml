@@ -152,6 +152,10 @@
         <locationID>443</locationID>
         <text>Qi Toolkit (Heiss, David)</text>
     </auth>
+    <auth userName="ghutchins">
+        <locationID>708</locationID>
+        <text>Qi Toolkit (Hutchins, Gabriel)</text>
+    </auth>
     <auth userName="ahuffman">
         <locationID>437</locationID>
         <text>Qi Toolkit (Huffman, Ashley)</text>
