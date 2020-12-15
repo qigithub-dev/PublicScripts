@@ -188,6 +188,10 @@
         <locationID>440</locationID>
         <text>Qi Toolkit (Mehlmann, Christian)</text>
     </auth>
+    <auth userName="cmethvin">
+        <locationID>717</locationID>
+        <text>Qi Toolkit (Methvin, Craig)</text>
+    </auth>
     <auth userName="cminnick">
         <locationID>632</locationID>
         <text>Qi Toolkit (Minnick, Cody)</text>
