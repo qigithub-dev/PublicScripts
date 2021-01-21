@@ -2,7 +2,7 @@
 <sharpXML>
     <update appId="Qi-Toolkit">
         <version>2.0.3.0</version>
-        <url>https://qibit-ly.co/Qi-Toolkit</url>
+        <url>https://automate.qualityip.com/LabTech/Transfer/Production/Qi-Toolkit/Qi-Toolkit.exe</url>
         <fileName>Qi-Toolkit.exe</fileName>
         <md5>4139240CCAFE3D0701BE14D094BBBA68</md5>
         <description>Created Token based installers</description>
