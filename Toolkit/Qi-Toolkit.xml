@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpXML>
     <update appId="Qi-Toolkit">
-        <version>2.0.2.2</version>
+        <version>2.0.3.0</version>
         <url>https://github.com/qigithub-dev/PublicScripts/raw/master/Toolkit/Qi-Toolkit.exe</url>
         <fileName>Qi-Toolkit.exe</fileName>
-        <md5>A83FB4AE6312D334BA25FA66F98ACB76</md5>
-        <description>Mojor core update</description>
+        <md5>4A4699A0D087C1CB4286A00236D0937B</md5>
+        <description>Created Token based installers</description>
         <launchArgs></launchArgs>
     </update>
     <download appName="Win10_2004_x64">
